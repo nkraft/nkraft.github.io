@@ -64,6 +64,7 @@ p.lead {
 .page-header {
    position: relative;
    padding-top: 12px;
+   /* margin-bottom: 0px; */
    margin-top: 79px;
    border-bottom-width: 0px;
    /*
@@ -80,6 +81,7 @@ p.lead {
 }
 .page-header p {
    text-align: justify;
+   margin-bottom: 0px;
 }
 
 .row.anchor > .row {
@@ -178,6 +180,11 @@ ul.list-group > li.list-group-item {
    padding-top: 5px;
 }
 
+
+hr {
+   margin-top: 0px;
+   margin-bottom: 18px;
+}
 
 /* Horizontal overflow fix */
 .row {
