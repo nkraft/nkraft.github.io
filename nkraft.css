@@ -34,7 +34,9 @@ img.navbar-brand-affiliation {
 }
 img.headshot {
   padding-bottom: 18.75px;
-  max-width: 280px;
+  width: 100% !important;
+  height: auto;
+  display: block;
 }
 .bio p {
   text-align: justify;
