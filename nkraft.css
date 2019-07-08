@@ -34,7 +34,7 @@ img.navbar-brand-affiliation {
 }
 img.headshot {
   padding-bottom: 18.75px;
-  width: 100% !important;
+  max-width: 280px;
   height: auto;
   display: block;
 }
