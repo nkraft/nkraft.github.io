@@ -36,6 +36,7 @@ img.headshot {
   padding-bottom: 18.75px;
   max-width: 280px;
   height: auto;
+  display: block;
 }
 .bio p {
   text-align: justify;
